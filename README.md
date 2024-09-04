@@ -16,10 +16,10 @@ This project predicts the price of a car based on user input such as company nam
 
 - The prediction is based on a Linear Regression model trained on a dataset of car prices and their corresponding features. The model takes into account the various features of the car to estimate its price.
 
-![Screenshot (10)](https://github.com/Veer6693/Car-Price-Prediction/assets/102231617/f2c79bd6-f0b9-4503-a8e5-e3c8a956059a)
+![Screenshot 2024-09-04 123949](https://github.com/user-attachments/assets/e5c527cf-defd-4c58-86e1-e7f27342d53d)
 
+![Screenshot 2024-09-04 124007](https://github.com/user-attachments/assets/97ecd783-9f47-432f-b15a-348355e00210)
 
-![Screenshot 2024-02-21 115828](https://github.com/Veer6693/Car-Price-Prediction/assets/102231617/d5890bcf-5a88-40f3-b31f-9dab90fb4e26)
 
 
 ## Future Improvements
