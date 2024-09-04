@@ -2,20 +2,6 @@
 
 This project predicts the price of a car based on user input such as company name, car model, year, fuel type, and kilometers driven. It uses a Linear Regression model for prediction.
 
-## Usage
-
-To use this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Veer6693/Car-Price-Prediction.git
-
-2. Run the application:
-   ```bash
-   python app.py
-
-3. Open the web interface in your browser and input the required details to get the predicted car price.
-
 
 ## Input Features
 
